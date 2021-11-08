@@ -1,6 +1,6 @@
 % code for experiment
 clear all;
-
+addpath('Dependencies');
 clc;
 % theta1 = theta2, alpha ~=0
 load('ss_8_14_18.mat');
