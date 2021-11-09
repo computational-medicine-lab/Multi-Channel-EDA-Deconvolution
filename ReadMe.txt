@@ -5,7 +5,18 @@ If you are using any part of the repository please cite the following paper:
 
 Amin, MD Rafiul, and Rose T. Faghih. "Robust Inference of Autonomic Nervous System Activation Using Skin Conductance Measurements: A Multi-Channel Sparse System Identification Approach." IEEE Access 7 (2019): 173419-173437.
 
-
+---------------------------------------------------------------------------------------------------------
+Bibtex
+---------------------------------------------------------------------------------------------------------
+@ARTICLE{amin2019,  
+author={Amin, MD. Rafiul and Faghih, Rose T.},  
+journal={IEEE Access},   
+title={Robust Inference of Autonomic Nervous System Activation Using Skin Conductance Measurements: A Multi-Channel Sparse System Identification Approach},   
+year={2019},  
+volume={7},  
+number={},  
+pages={173419-173437},  
+doi={10.1109/ACCESS.2019.2956673}}
 ---------------------------------------------------------------------------------------------------------
 
 Please see the example matlab file "Exp_on_real_data_3_channel"
